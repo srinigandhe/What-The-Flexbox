@@ -1,0 +1,25 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "Flexbox tutorial from Wes Bos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinigandhe/What-The-Flexbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinigandhe/What-The-Flexbox/issues"
+  },
+  "homepage": "https://github.com/srinigandhe/What-The-Flexbox#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
